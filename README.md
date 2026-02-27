@@ -29,5 +29,3 @@ OpenCV
 MediaPipe
 
 NumPy
-
-(Optional) TensorFlow / PyTorch for gesture classification
